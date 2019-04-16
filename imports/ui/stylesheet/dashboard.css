@@ -1,0 +1,23 @@
+button#dropdownMenuButton {
+    background: none;
+    border: none;
+    width: 125px;
+}
+a.dropdown-item:hover {
+    color: #fff;
+    background: #676767;
+    cursor: pointer;
+}
+.dropdown img {
+    border-radius: 50%;
+    width: 30%;
+    display: inline-block;
+}
+button#dropdownMenuButton:focus, button#dropdownMenuButton:focus{
+    border-color: none;
+    -webkit-box-shadow: none;
+}
+button#dropdownMenuButton:hover {
+    border-color: none;
+    -webkit-box-shadow: none;
+}
